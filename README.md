@@ -31,4 +31,5 @@
 📫 **Contact**
 - LinkedIn: www.linkedin.com/in/shan-suzy-xie-3a8668172
 - Email: susanaxie0909@gmail.com
+
 📍 Based in Belgium | Eligible to work in Belgium
