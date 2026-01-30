@@ -15,7 +15,7 @@
 - **Visualization & Tools:** Power BI, Matplotlib, Seaborn, Blender
 
 📌 **Featured Projects**
-- **Lightweight CNNs for Flood Segmentation (Master Thesis)**  
+- **Lightweight CNNs for Flooded Region Detection (Master Thesis)**  
   Semantic segmentation for flood detection using lightweight CNNs and knowledge distillation, focusing on performance–efficiency trade-offs.
 - **Skin Lesion Classification (CNNs)**  
   Multiclass skin lesion classification on the ISIC dataset using convolutional neural networks, with emphasis on medical image analysis.
