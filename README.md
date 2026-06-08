@@ -1,4 +1,4 @@
-## Hi I'm Suzy 👋
+## Hi I'm Shan 👋
 
 🎓 Postgraduate student in Applied Artificial Intelligence at Erasmus Hogeschool Brussels, with a master's degree in Data Science
 
