@@ -7,7 +7,7 @@ Hi, I'm Shan! Welcome to my GitHub portfolio. I'm a data scientist, with a Maste
 - **Languages:** Python, SQL, PySpark
 - **Machine Learning & Deep Learning:** scikit-learn, TensorFlow, Keras, PyTorch
 - **Computer Vision:** YOLO/object detection, semantic segmentation, CNNs
-- **Data & Analytics:** Pandas, Numpy
+- **Data & Analytics:** Pandas, NumPy
 - **MLOps:** Docker, Terraform, MLflow, CI/CD, AWS
 - **Visualisation:** Power BI, Matplotlib, Streamlit
 
@@ -19,7 +19,7 @@ Hi, I'm Shan! Welcome to my GitHub portfolio. I'm a data scientist, with a Maste
 
 - **Kenya Wildlife Monitor** (https://github.com/Suzyxx/kenya-wildlife-monitor)
   
-  Real-time animal detection on a Youtube livestream with YOLOv8, plus a data collection and analysis pipeline that logs detections and generates summary reports.
+  Real-time animal detection on a YouTube livestream with YOLOv8, plus a data collection and analysis pipeline that logs detections and generates summary reports.
 
 - **RL for Belgian Apartment Heating** (https://github.com/Suzyxx/rl-belgian-heating)
   
