@@ -1,20 +1,17 @@
-## Hi I'm Shan 👋
+## Hi I'm Shan 
 
-🎓 Postgraduate student in Applied Artificial Intelligence at Erasmus Hogeschool Brussels, with a master's degree in Data Science
+Welcome to my Github portfolio. I'm a data scientist, with a Master's degree in Data Science and a Postgraduate diploma in Applied AI. I came to data science from a career in teaching, and what led me from one to the other was curiosity: I like taking a messy real-world problem apart until it makes sense, then building something to m solve it. My main interests in the vast AI world are machine learning and computer vision. Here are some projects I have done for you to explore, enjoy!
 
-🔍 **Core Interests**
-- Machine Learning & Deep Learning
-- Computer Vision & Applied AI
-- Data Analytics on Real-world Problems
 
-🛠 **Technical Skills**
-- **Programming:** Python, SQL (experience with R and MATLAB)
-- **Machine Learning & AI:** Machine Learning, Deep Learning, Computer Vision, Image Processing
-- **Frameworks:** PyTorch, TensorFlow, Keras
-- **Data & Analytics:** Data Analysis, Data Processing, Data Mining, Statistical Analysis
-- **Visualization & Tools:** Power BI, Matplotlib, Seaborn, Blender
+**What I work with**
+- **Languages:** Python, SQL, PySpark
+- **Machine Learning & Deep Learning:** scikit-learn, TensorFlow, Keras, PyTorch
+- **Computer Vision:** YOLO/object detection, semantic segmentation, CNNs
+- **Data & Analytics:** Pandas, Numpy
+- **MLOps:** Docker, Terraform, MLflow, CI/CD, AWS
+- **Visualisation:** Power BI, Matplotlib, Streamlit
 
-📌 **Featured Projects**
+**Featured Projects**
 - **Lightweight CNNs for Flooded Region Detection (Master Thesis)**  
   Semantic segmentation for flood detection using lightweight CNNs and knowledge distillation, focusing on performance–efficiency trade-offs.
 - **Skin Lesion Classification (CNNs)**  
@@ -32,4 +29,4 @@
 - LinkedIn: www.linkedin.com/in/shan-suzy-xie-3a8668172
 - Email: susanaxie0909@gmail.com
 
-📍 Based in Belgium | Eligible to work in Belgium
+📍 Based in Brussels | Eligible to work in Belgium
