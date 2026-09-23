@@ -12,15 +12,28 @@ Welcome to my Github portfolio. I'm a data scientist, with a Master's degree in 
 - **Visualisation:** Power BI, Matplotlib, Streamlit
 
 **Featured Projects**
-- **Lightweight CNNs for Flooded Region Detection (Master Thesis)**  
+- **Lightweight CNNs for Flooded Region Detection (Master Thesis)**
+  (https://github.com/Suzyxx/lightweight-cnn-flood-region-detection) 
   Semantic segmentation for flood detection using lightweight CNNs and knowledge distillation, focusing on performance–efficiency trade-offs.
-- **Skin Lesion Classification (CNNs)**  
-  Multiclass skin lesion classification on the ISIC dataset using convolutional neural networks, with emphasis on medical image analysis.
-- **Company Bankruptcy Prediction**  
+
+- **Kenya Wildlife Monitor** (https://github.com/Suzyxx/kenya-wildlife-monitor) 
+  A Real-time animal detection on a Youtube livestream with YOLOv8, plus a data collection and analysis pipeline that logs detections and generates summary reports.
+
+- **RL for Belgian Apartment Heating** (https://github.com/Suzyxx/rl-belgian-heating) 
+  A reinforcement learning agent that controls electric heating using real hourly electricity prices and grid carbon data, cutting price and emissions compared to a standard thermostat while keeping the room comfortable.
+
+- **MLOps pipeline on AWS** (https://github.com/Suzyxx/mlops-terraform)
+  End-to-end in infrastructure as code with Terraform: containerised model, CI/CD, ECR, and MLflow experiment tracking and registry.
+  
+- **Company Bankruptcy Prediction** (https://github.com/Suzyxx/company-bankruptcy-prediction) 
   Supervised machine learning on financial tabular data to predict company bankruptcy, focusing on risk assessment and model evaluation.
-- **Plants for Bees**  
+  
+**Other Projects**
+- **Skin Lesion Classification (CNNs)** (https://github.com/Suzyxx/skin-lesion-classification-cnn) 
+  Multiclass skin lesion classification on the ISIC dataset using convolutional neural networks, with emphasis on medical image analysis.
+- **Plants for Bees** (https://github.com/Suzyxx/plants-for-bee)
   Data-driven analysis of native and non-native plants to provide evidence-based recommendations for pollinator-friendly environments.
-- **Big Data Analytics for Healthcare (EU Project)**  
+- **Big Data Analytics for Healthcare (EU Project)** (https://github.com/Suzyxx/big-data-analytics-for-healthcare)
   Large-scale healthcare data analysis using PySpark on Eurostat and COVID-19 datasets to extract population-level insights.
 - **Synthetic Video Data for Behavior Detection (NIE × NVIDIA)**  
   Research collaboration on synthetic video data generation for behavior detection; code not publicly available due to confidentiality.
